@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VOICE BOT", "VOICE BOT\VOICE BOT.csproj", "{509736E5-DFF2-4EDF-8FED-0D434BA8EA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{509736E5-DFF2-4EDF-8FED-0D434BA8EA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509736E5-DFF2-4EDF-8FED-0D434BA8EA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509736E5-DFF2-4EDF-8FED-0D434BA8EA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509736E5-DFF2-4EDF-8FED-0D434BA8EA62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B3E35D9-BAE2-4138-A4E2-147F912F77C9}
+	EndGlobalSection
+EndGlobal
